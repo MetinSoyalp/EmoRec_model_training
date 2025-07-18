@@ -1,0 +1,6 @@
+
+go_emotion_datase => GoEmotion dataseti, her döngüde içinden data azalıyor
+
+training_data => model eğitmede kullanılacak olan dataseti
+
+pseudo_labeled_data => kalan GoEmotion datasına koyulan labellar

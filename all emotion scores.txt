@@ -1,0 +1,278 @@
++v1
+
+Label - anger: Precision=0.8152, Recall=0.7575, F1-score=0.7853
+Label - anticipation: Precision=0.0000, Recall=0.0000, F1-score=0.0000
+Label - disgust: Precision=0.7545, Recall=0.7270, F1-score=0.7405
+Label - fear: Precision=0.8647, Recall=0.5402, F1-score=0.6650
+Label - joy: Precision=0.8584, Recall=0.7989, F1-score=0.8276
+Label - love: Precision=0.8879, Recall=0.1841, F1-score=0.3050
+Label - optimism: Precision=0.7272, Recall=0.7533, F1-score=0.7400
+Label - pessimism: Precision=0.7619, Recall=0.0427, F1-score=0.0808
+Label - sadness: Precision=0.7562, Recall=0.6010, F1-score=0.6698
+Label - surprise: Precision=0.0000, Recall=0.0000, F1-score=0.0000
+Label - trust: Precision=0.0000, Recall=0.0000, F1-score=0.0000
+
++v2-try 1
+
+Label - anger: Precision=0.7865, Recall=0.7493, F1-score=0.7674
+Label - anticipation: Precision=0.5000, Recall=0.0024, F1-score=0.0047
+Label - disgust: Precision=0.7344, Recall=0.7625, F1-score=0.7482
+Label - fear: Precision=0.8566, Recall=0.4557, F1-score=0.5949
+Label - joy: Precision=0.8522, Recall=0.7920, F1-score=0.8210
+Label - love: Precision=0.7021, Recall=0.5116, F1-score=0.5919
+Label - optimism: Precision=0.7128, Recall=0.7340, F1-score=0.7233
+Label - pessimism: Precision=0.4722, Recall=0.0907, F1-score=0.1521
+Label - sadness: Precision=0.7488, Recall=0.4688, F1-score=0.5766
+Label - surprise: Precision=0.7222, Recall=0.0765, F1-score=0.1383
+Label - trust: Precision=0.4444, Recall=0.0261, F1-score=0.0494
+
++v2-try 2
+
+Label - anger: Precision=0.7007, Recall=0.8610, F1-score=0.7726
+Label - anticipation: Precision=0.2232, Recall=0.6824, F1-score=0.3364
+Label - disgust: Precision=0.6379, Recall=0.8863, F1-score=0.7418
+Label - fear: Precision=0.4988, Recall=0.8371, F1-score=0.6251
+Label - joy: Precision=0.7990, Recall=0.8766, F1-score=0.8360
+Label - love: Precision=0.3846, Recall=0.8779, F1-score=0.5348
+Label - optimism: Precision=0.6376, Recall=0.8819, F1-score=0.7401
+Label - pessimism: Precision=0.2759, Recall=0.8027, F1-score=0.4106
+Label - sadness: Precision=0.5071, Recall=0.8500, F1-score=0.6353
+Label - surprise: Precision=0.1396, Recall=0.6882, F1-score=0.2321
+Label - trust: Precision=0.0882, Recall=0.6993, F1-score=0.1567
+
++v2-try 3
+
+Label - anger: Precision=0.7894, Recall=0.7457, F1-score=0.7669
+Label - anticipation: Precision=0.6500, Recall=0.0306, F1-score=0.0584
+Label - disgust: Precision=0.7300, Recall=0.7725, F1-score=0.7507
+Label - fear: Precision=0.9104, Recall=0.5031, F1-score=0.6481
+Label - joy: Precision=0.8622, Recall=0.7809, F1-score=0.8195
+Label - love: Precision=0.7173, Recall=0.5213, F1-score=0.6038
+Label - optimism: Precision=0.7261, Recall=0.7052, F1-score=0.7155
+Label - pessimism: Precision=0.5634, Recall=0.1067, F1-score=0.1794
+Label - sadness: Precision=0.7710, Recall=0.5437, F1-score=0.6378
+Label - surprise: Precision=0.7368, Recall=0.0824, F1-score=0.1481
+Label - trust: Precision=0.2000, Recall=0.0131, F1-score=0.0245
+
++v2-try 4
+
+Label - anger: Precision=0.0000, Recall=0.0000, F1-score=0.0000
+Label - anticipation: Precision=0.0000, Recall=0.0000, F1-score=0.0000
+Label - disgust: Precision=0.0000, Recall=0.0000, F1-score=0.0000
+Label - fear: Precision=0.0000, Recall=0.0000, F1-score=0.0000
+Label - joy: Precision=0.0000, Recall=0.0000, F1-score=0.0000
+Label - love: Precision=0.0000, Recall=0.0000, F1-score=0.0000
+Label - optimism: Precision=0.0000, Recall=0.0000, F1-score=0.0000
+Label - pessimism: Precision=0.0000, Recall=0.0000, F1-score=0.0000
+Label - sadness: Precision=0.0000, Recall=0.0000, F1-score=0.0000
+Label - surprise: Precision=0.0000, Recall=0.0000, F1-score=0.0000
+Label - trust: Precision=0.0000, Recall=0.0000, F1-score=0.0000
+
++v2-try 5
+
+Label - anger: Precision=0.8019, Recall=0.7648, F1-score=0.7829
+Label - anticipation: Precision=0.3511, Recall=0.2635, F1-score=0.3011
+Label - disgust: Precision=0.7477, Recall=0.7443, F1-score=0.7460
+Label - fear: Precision=0.7184, Recall=0.7155, F1-score=0.7169
+Label - joy: Precision=0.8478, Recall=0.8190, F1-score=0.8332
+Label - love: Precision=0.4839, Recall=0.8140, F1-score=0.6069
+Label - optimism: Precision=0.7021, Recall=0.7918, F1-score=0.7442
+Label - pessimism: Precision=0.3803, Recall=0.5547, F1-score=0.4512
+Label - sadness: Precision=0.7231, Recall=0.6583, F1-score=0.6892
+Label - surprise: Precision=0.3267, Recall=0.3882, F1-score=0.3548
+Label - trust: Precision=0.1276, Recall=0.4379, F1-score=0.1976
+
++v2-try 6
+
+Label - anger: Precision=0.8146, Recall=0.7584, F1-score=0.7855
+Label - anticipation: Precision=0.4615, Recall=0.0565, F1-score=0.1006
+Label - disgust: Precision=0.7505, Recall=0.7443, F1-score=0.7474
+Label - fear: Precision=0.8031, Recall=0.6309, F1-score=0.7067
+Label - joy: Precision=0.8537, Recall=0.8176, F1-score=0.8353
+Label - love: Precision=0.5747, Recall=0.6860, F1-score=0.6254
+Label - optimism: Precision=0.7119, Recall=0.7804, F1-score=0.7446
+Label - pessimism: Precision=0.4635, Recall=0.3387, F1-score=0.3914
+Label - sadness: Precision=0.7516, Recall=0.6021, F1-score=0.6686
+Label - surprise: Precision=0.6176, Recall=0.1235, F1-score=0.2059
+Label - trust: Precision=0.3478, Recall=0.0523, F1-score=0.0909
+
++v3
+
+Label - anger: Precision=0.7735, Recall=0.8002, F1-score=0.7866
+Label - anticipation: Precision=0.2751, Recall=0.4447, F1-score=0.3399
+Label - disgust: Precision=0.7358, Recall=0.7753, F1-score=0.7550
+Label - fear: Precision=0.7929, Recall=0.6474, F1-score=0.7128
+Label - joy: Precision=0.8453, Recall=0.8259, F1-score=0.8355
+Label - love: Precision=0.5877, Recall=0.6686, F1-score=0.6256
+Label - optimism: Precision=0.6983, Recall=0.8040, F1-score=0.7475
+Label - pessimism: Precision=0.4051, Recall=0.4667, F1-score=0.4337
+Label - sadness: Precision=0.6603, Recall=0.7250, F1-score=0.6912
+Label - surprise: Precision=0.4362, Recall=0.2412, F1-score=0.3106
+Label - trust: Precision=0.1631, Recall=0.3007, F1-score=0.2115
+
++v4 - model v1
+
+Label - anger: Precision=0.8120, Recall=0.7103, F1-score=0.7578
+Label - anticipation: Precision=0.5000, Recall=0.0024, F1-score=0.0047
+Label - disgust: Precision=0.7579, Recall=0.6952, F1-score=0.7252
+Label - fear: Precision=0.8424, Recall=0.6392, F1-score=0.7268
+Label - joy: Precision=0.8530, Recall=0.7767, F1-score=0.8131
+Label - love: Precision=0.6324, Recall=0.5368, F1-score=0.5807
+Label - optimism: Precision=0.7078, Recall=0.7183, F1-score=0.7130
+Label - pessimism: Precision=0.4561, Recall=0.2773, F1-score=0.3449
+Label - sadness: Precision=0.7980, Recall=0.5802, F1-score=0.6719
+Label - surprise: Precision=0.5000, Recall=0.1647, F1-score=0.2478
+Label - trust: Precision=0.1273, Recall=0.0458, F1-score=0.0673
+
++v4 - model v2 with custom threshold
+
+----
+
++v4 - model v2 without custom threshold
+
+Label - anger: Precision=0.8155, Recall=0.7184, F1-score=0.7639
+Label - anticipation: Precision=0.3986, Recall=0.1294, F1-score=0.1954
+Label - disgust: Precision=0.7585, Recall=0.6915, F1-score=0.7235
+Label - fear: Precision=0.7850, Recall=0.6701, F1-score=0.7230
+Label - joy: Precision=0.8628, Recall=0.7850, F1-score=0.8221
+Label - love: Precision=0.6360, Recall=0.5484, F1-score=0.5890
+Label - optimism: Precision=0.7090, Recall=0.7419, F1-score=0.7251
+Label - pessimism: Precision=0.4435, Recall=0.2933, F1-score=0.3531
+Label - sadness: Precision=0.7618, Recall=0.6198, F1-score=0.6835
+Label - surprise: Precision=0.4625, Recall=0.2176, F1-score=0.2960
+Label - trust: Precision=0.1000, Recall=0.0392, F1-score=0.0563
+
++v5 - try 1
+
+-iteration 1:
+
+Label - anger: Precision=0.7989, Recall=0.7684, F1-score=0.7833
+Label - anticipation: Precision=0.4232, Recall=0.2659, F1-score=0.3266
+Label - disgust: Precision=0.7202, Recall=0.8035, F1-score=0.7596
+Label - fear: Precision=0.8202, Recall=0.6866, F1-score=0.7475
+Label - joy: Precision=0.8327, Recall=0.8523, F1-score=0.8424
+Label - love: Precision=0.5941, Recall=0.6609, F1-score=0.6257
+Label - optimism: Precision=0.6755, Recall=0.8250, F1-score=0.7428
+Label - pessimism: Precision=0.4326, Recall=0.4107, F1-score=0.4213
+Label - sadness: Precision=0.6542, Recall=0.7312, F1-score=0.6906
+Label - surprise: Precision=0.5370, Recall=0.1706, F1-score=0.2589
+Label - trust: Precision=0.3182, Recall=0.1373, F1-score=0.1918
+
+-iteration 2:
+
+Label - anger: Precision=0.8048, Recall=0.7566, F1-score=0.7800
+Label - anticipation: Precision=0.3789, Recall=0.2541, F1-score=0.3042
+Label - disgust: Precision=0.7391, Recall=0.7525, F1-score=0.7457
+Label - fear: Precision=0.8009, Recall=0.7134, F1-score=0.7546
+Label - joy: Precision=0.8455, Recall=0.8086, F1-score=0.8267
+Label - love: Precision=0.6457, Recall=0.5368, F1-score=0.5862
+Label - optimism: Precision=0.7291, Recall=0.7183, F1-score=0.7237
+Label - pessimism: Precision=0.4466, Recall=0.3680, F1-score=0.4035
+Label - sadness: Precision=0.6596, Recall=0.7104, F1-score=0.6841
+Label - surprise: Precision=0.5217, Recall=0.2118, F1-score=0.3013
+Label - trust: Precision=0.4615, Recall=0.0784, F1-score=0.1341
+
++v5 - try 2
+
+-iteration 1:
+
+Label - anger: Precision=0.7837, Recall=0.8029, F1-score=0.7932
+Label - anticipation: Precision=0.3767, Recall=0.3200, F1-score=0.3461
+Label - disgust: Precision=0.7336, Recall=0.7916, F1-score=0.7615
+Label - fear: Precision=0.7611, Recall=0.7093, F1-score=0.7343
+Label - joy: Precision=0.8558, Recall=0.8107, F1-score=0.8326
+Label - love: Precision=0.6283, Recall=0.6027, F1-score=0.6152
+Label - optimism: Precision=0.7072, Recall=0.7883, F1-score=0.7456
+Label - pessimism: Precision=0.4317, Recall=0.3707, F1-score=0.3989
+Label - sadness: Precision=0.6782, Recall=0.7333, F1-score=0.7047
+Label - surprise: Precision=0.6200, Recall=0.1824, F1-score=0.2818
+Label - trust: Precision=0.2921, Recall=0.1699, F1-score=0.2149
+
+-iteration 2:
+
+Label - anger: Precision=0.7746, Recall=0.7866, F1-score=0.7805
+Label - anticipation: Precision=0.3804, Recall=0.3106, F1-score=0.3420
+Label - disgust: Precision=0.7449, Recall=0.7680, F1-score=0.7563
+Label - fear: Precision=0.7953, Recall=0.6969, F1-score=0.7429
+Label - joy: Precision=0.8479, Recall=0.8426, F1-score=0.8452
+Label - love: Precision=0.6210, Recall=0.6066, F1-score=0.6137
+Label - optimism: Precision=0.7138, Recall=0.7550, F1-score=0.7338
+Label - pessimism: Precision=0.4162, Recall=0.4373, F1-score=0.4265
+Label - sadness: Precision=0.6813, Recall=0.7104, F1-score=0.6956
+Label - surprise: Precision=0.4216, Recall=0.2529, F1-score=0.3162
+Label - trust: Precision=0.3714, Recall=0.0850, F1-score=0.1383
+
+-iteration 3:
+
+Label - anger: Precision=0.7905, Recall=0.7675, F1-score=0.7788
+Label - anticipation: Precision=0.4189, Recall=0.2188, F1-score=0.2875
+Label - disgust: Precision=0.7178, Recall=0.7962, F1-score=0.7550
+Label - fear: Precision=0.8329, Recall=0.6680, F1-score=0.7414
+Label - joy: Precision=0.8520, Recall=0.8141, F1-score=0.8326
+Label - love: Precision=0.6280, Recall=0.5659, F1-score=0.5953
+Label - optimism: Precision=0.7038, Recall=0.7629, F1-score=0.7322
+Label - pessimism: Precision=0.4113, Recall=0.4453, F1-score=0.4277
+Label - sadness: Precision=0.7240, Recall=0.6750, F1-score=0.6987
+Label - surprise: Precision=0.5968, Recall=0.2176, F1-score=0.3190
+Label - trust: Precision=0.4000, Recall=0.0784, F1-score=0.1311
+
++v5 - try 3
+
+-iteration 1:
+
+Label - anger: Precision=0.7871, Recall=0.7956, F1-score=0.7913
+Label - anticipation: Precision=0.4056, Recall=0.2729, F1-score=0.3263
+Label - disgust: Precision=0.7264, Recall=0.8116, F1-score=0.7667
+Label - fear: Precision=0.8163, Recall=0.6598, F1-score=0.7298
+Label - joy: Precision=0.8505, Recall=0.8287, F1-score=0.8395
+Label - love: Precision=0.6083, Recall=0.6260, F1-score=0.6170
+Label - optimism: Precision=0.7219, Recall=0.7629, F1-score=0.7418
+Label - pessimism: Precision=0.4358, Recall=0.3893, F1-score=0.4113
+Label - sadness: Precision=0.6787, Recall=0.7417, F1-score=0.7088
+Label - surprise: Precision=0.3684, Recall=0.2471, F1-score=0.2958
+Label - trust: Precision=0.2951, Recall=0.1176, F1-score=0.1682
+
++v6
+
+-base:
+
+Label - anger: Precision=0.7670, Recall=0.7893, F1-score=0.7780
+Label - anticipation: Precision=0.3265, Recall=0.3765, F1-score=0.3497
+Label - disgust: Precision=0.7139, Recall=0.8153, F1-score=0.7613
+Label - fear: Precision=0.8184, Recall=0.6598, F1-score=0.7306
+Label - joy: Precision=0.8563, Recall=0.8183, F1-score=0.8369
+Label - love: Precision=0.6047, Recall=0.6550, F1-score=0.6288
+Label - optimism: Precision=0.7094, Recall=0.7944, F1-score=0.7495
+Label - pessimism: Precision=0.3530, Recall=0.5573, F1-score=0.4323
+Label - sadness: Precision=0.6847, Recall=0.7260, F1-score=0.7048
+Label - surprise: Precision=0.3182, Recall=0.2882, F1-score=0.3025
+Label - trust: Precision=0.1772, Recall=0.2941, F1-score=0.2211
+
+-iteration 1:
+
+Label - anger: Precision=0.7611, Recall=0.8102, F1-score=0.7849
+Label - anticipation: Precision=0.3153, Recall=0.3694, F1-score=0.3402
+Label - disgust: Precision=0.7274, Recall=0.7916, F1-score=0.7582
+Label - fear: Precision=0.7852, Recall=0.7237, F1-score=0.7532
+Label - joy: Precision=0.8674, Recall=0.8162, F1-score=0.8410
+Label - love: Precision=0.6274, Recall=0.5678, F1-score=0.5961
+Label - optimism: Precision=0.7037, Recall=0.7813, F1-score=0.7405
+Label - pessimism: Precision=0.3678, Recall=0.5307, F1-score=0.4345
+Label - sadness: Precision=0.6803, Recall=0.7271, F1-score=0.7029
+Label - surprise: Precision=0.3421, Recall=0.3059, F1-score=0.3230
+Label - trust: Precision=0.2077, Recall=0.2810, F1-score=0.2389
+
+
+-iteration 1-f:
+
+Label - anger: Precision=0.7882, Recall=0.7639, F1-score=0.7758
+Label - anticipation: Precision=0.3423, Recall=0.3600, F1-score=0.3509
+Label - disgust: Precision=0.7238, Recall=0.7989, F1-score=0.7595
+Label - fear: Precision=0.7922, Recall=0.7155, F1-score=0.7519
+Label - joy: Precision=0.8665, Recall=0.8190, F1-score=0.8421
+Label - love: Precision=0.6381, Recall=0.5329, F1-score=0.5808
+Label - optimism: Precision=0.6932, Recall=0.7769, F1-score=0.7327
+Label - pessimism: Precision=0.3794, Recall=0.4613, F1-score=0.4164
+Label - sadness: Precision=0.6906, Recall=0.7208, F1-score=0.7054
+Label - surprise: Precision=0.3333, Recall=0.2706, F1-score=0.2987
+Label - trust: Precision=0.2556, Recall=0.2222, F1-score=0.2378
